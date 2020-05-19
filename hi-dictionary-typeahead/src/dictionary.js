@@ -302,5 +302,5 @@ const dictionary = {
   Wakea: "Father sky",
   Wapine: "Lemon grass",
   Wauke: "Mulberry tree",
-  Wiki: "Quick, fast"
+  Wiki: "Quick, fast",
 };
